@@ -1,0 +1,11 @@
+Package: LDCtemplate
+Type: Package
+Title: Brill-style Template for 'Language Dynamics and Change'
+Version: 0.1.0
+Author: Jayden Macklin-Cordes
+Description: This package installs an R Markdown template for the journal
+    Language Dynamics and Change. It approximates a Brill Publishing style,
+    following a template on Typset.io.
+License: MIT
+Encoding: UTF-8
+LazyData: true
